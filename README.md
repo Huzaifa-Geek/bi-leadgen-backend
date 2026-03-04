@@ -23,7 +23,7 @@ Production-style FastAPI backend for scraping, scoring, and managing business le
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com
+    git clone https://github.com/Huzaifa-Geek/bi-leadgen-backend.git
     cd bi-leadgen-backend
     ```
 
